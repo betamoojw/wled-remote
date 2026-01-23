@@ -11,6 +11,8 @@ Hardware Components for Remote Controller:
 
 For that I designed [a complete 3D printable case](https://makerworld.com/en/models/973948#profileId-946226).
 
+There is also a more [rugged version](https://makerworld.com/en/models/1328465-rugged-lilygo-t4-s3-remote-case-with-battery#profileId-1366289) available.
+
 ![2025-01-10_oclj5dcp1ilm](https://github.com/user-attachments/assets/17b21df0-d27a-4663-83c9-23b3a8c22528)
 
 ![2025-01-10_hyt3c2m0mt6z](https://github.com/user-attachments/assets/0c7d9f86-9788-40d1-9297-77a8de6b4660)
